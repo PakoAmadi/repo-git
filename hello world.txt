@@ -1,3 +1,4 @@
+reader
 print("mako")
 print("hello world;)
 print('zdarova')
